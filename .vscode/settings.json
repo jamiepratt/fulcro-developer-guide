@@ -1,0 +1,16 @@
+{
+    "calva.replConnectSequences": [
+
+        
+        {
+            "name": "Fulcro Developers Guide",
+            "projectType": "shadow-cljs",
+            "cljsType": "shadow-cljs",
+            "menuSelections": {
+                "cljsDefaultBuild": "main",
+                "cljsLaunchBuilds": ["main"],
+            },
+            "autoSelectForJackIn": false
+        }
+    ]
+}
